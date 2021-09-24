@@ -34,8 +34,9 @@
               "src/assets"
             ],
             "styles": [
+              "src/app/styles/_normalize.scss",
               "node_modules/bootstrap/scss/bootstrap.scss",
-              "src/styles.scss"
+              "src/app/styles/style-master.scss"
             ],
             "scripts": []
           },
